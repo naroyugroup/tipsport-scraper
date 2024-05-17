@@ -18,10 +18,10 @@ logInModal = browser.find_element(By.XPATH, '//*[@id="js-app"]/header/div[2]/div
 logInModal.click()
 
 emailInput = browser.find_element(By.XPATH, "//input[@name='username']")
-emailInput.send_keys(consts.Tipsport["email"])
+emailInput.send_keys(consts.EMAIL)
 
 passwordInput = browser.find_element(By.XPATH, "//input[@name='password']")
-passwordInput.send_keys(consts.Tipsport["password"])
+passwordInput.send_keys(consts.PASSWORD)
 
 logInButton = browser.find_element(By.XPATH, "//button[@data-atid='btn-submit']")
 logInButton.click()
