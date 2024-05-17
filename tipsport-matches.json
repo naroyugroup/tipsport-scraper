@@ -1,0 +1,1548 @@
+{
+    "matches": [
+        {
+            "title": "N\u011bmecko - \u0160v\u00e9dsko",
+            "date": "Dnes | 20:20",
+            "odds": {
+                "1": "8.70",
+                "1x": "4.02",
+                "x": "7.18",
+                "x2": "1.09",
+                "2": "1.27"
+            }
+        },
+        {
+            "title": "\u0160v\u00fdcarsko - \u010cesko",
+            "date": "Dnes | 20:20",
+            "odds": {
+                "1": "2.82",
+                "1x": "1.70",
+                "x": "4.26",
+                "x2": "1.48",
+                "2": "2.27"
+            }
+        },
+        {
+            "title": "MS 2024 - skupina A \u2013 statistiky (mus\u00ed b\u00fdt \u0159\u00e1dn\u00e9 dohr\u00e1no)",
+            "date": "Dnes | 20:20",
+            "odds": {}
+        },
+        {
+            "title": "Aston Villa - Liverpool",
+            "date": "Dnes | 21:00",
+            "odds": {
+                "1": "3.77",
+                "1x": "2.05",
+                "x": "4.59",
+                "x2": "1.31",
+                "2": "1.83"
+            }
+        },
+        {
+            "title": "Lecce - Udinese",
+            "date": "Dnes | 18:30",
+            "odds": {
+                "1": "3.24",
+                "1x": "1.57",
+                "x": "3.10",
+                "x2": "1.38",
+                "2": "2.52"
+            }
+        },
+        {
+            "title": "Fiorentina - Monza",
+            "date": "Dnes | 20:45",
+            "odds": {
+                "1": "1.54",
+                "1x": "1.15",
+                "x": "4.57",
+                "x2": "2.58",
+                "2": "6.09"
+            }
+        },
+        {
+            "title": "FC Barcelona - San Sebastian",
+            "date": "Dnes | 21:00",
+            "odds": {
+                "1": "1.74",
+                "1x": "1.21",
+                "x": "4.05",
+                "x2": "2.18",
+                "2": "4.83"
+            }
+        },
+        {
+            "title": "Club Brugge - St. Gilloise",
+            "date": "Dnes | 20:30",
+            "odds": {
+                "1": "2.24",
+                "1x": "1.39",
+                "x": "3.58",
+                "x2": "1.69",
+                "2": "3.13"
+            }
+        },
+        {
+            "title": "GO\u0160K Gabela - Zrinjski Mostar",
+            "date": "Dnes | 21:00",
+            "odds": {
+                "1": "7.63",
+                "1x": "2.95",
+                "x": "4.84",
+                "x2": "1.03",
+                "2": "1.29"
+            }
+        },
+        {
+            "title": "FC Etar Veliko Tarnovo - Lokomotiv Sofia",
+            "date": "Dnes | 16:45",
+            "odds": {
+                "1": "6.04",
+                "1x": "2.28",
+                "x": "3.76",
+                "x2": "1.08",
+                "2": "1.53"
+            }
+        },
+        {
+            "title": "Botev Vratsa - Hebar Pazardzhik",
+            "date": "Dnes | 19:15",
+            "odds": {
+                "1": "1.64",
+                "1x": "1.12",
+                "x": "3.59",
+                "x2": "2.07",
+                "2": "5.01"
+            }
+        },
+        {
+            "title": "Runavik - Vestur Sorvagur",
+            "date": "Dnes | 19:30",
+            "odds": {
+                "1": "1.54",
+                "1x": "1.12",
+                "x": "3.96",
+                "x2": "2.13",
+                "2": "4.65"
+            }
+        },
+        {
+            "title": "Skala - HB Torshavn",
+            "date": "Dnes | 19:30",
+            "odds": {
+                "1": "8.07",
+                "1x": "3.09",
+                "x": "5.17",
+                "x2": "1.03",
+                "2": "1.26"
+            }
+        },
+        {
+            "title": "B36 Torshavn - Streymur",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.32",
+                "1x": "1.03",
+                "x": "4.69",
+                "x2": "2.84",
+                "2": "7.01"
+            }
+        },
+        {
+            "title": "Zob Ahan - Paykan",
+            "date": "Dnes | 16:45",
+            "odds": {
+                "1": "2.77",
+                "1x": "1.26",
+                "x": "2.29",
+                "x2": "1.34",
+                "2": "3.19"
+            }
+        },
+        {
+            "title": "Esteghlal FC - Foolad Khuzestan",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "1.31",
+                "1x": "1.01",
+                "x": "3.99",
+                "x2": "2.87",
+                "2": "10.80"
+            }
+        },
+        {
+            "title": "Esteghlal Khuzestan - Nassaji Mazandaran",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "2.63",
+                "1x": "1.27",
+                "x": "2.46",
+                "x2": "1.37",
+                "2": "3.09"
+            }
+        },
+        {
+            "title": "Al Jahra - Al Shabab (KUV)",
+            "date": "Dnes | 18:10",
+            "odds": {
+                "1": "2.01",
+                "1x": "1.30",
+                "x": "3.66",
+                "x2": "1.62",
+                "2": "2.95"
+            }
+        },
+        {
+            "title": "Khaitan - Kazma SC",
+            "date": "Dnes | 18:10",
+            "odds": {
+                "1": "4.94",
+                "1x": "2.25",
+                "x": "4.13",
+                "x2": "1.10",
+                "2": "1.49"
+            }
+        },
+        {
+            "title": "Progres Niederkorn - Differdange",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "2.75",
+                "1x": "1.48",
+                "x": "3.23",
+                "x2": "1.35",
+                "2": "2.30"
+            }
+        },
+        {
+            "title": "Alianza Atl\u00e9tico Sullana - Cienciano Cusco",
+            "date": "Dnes | 21:30",
+            "odds": {
+                "1": "1.80",
+                "1x": "1.16",
+                "x": "3.34",
+                "x2": "1.88",
+                "2": "4.35"
+            }
+        },
+        {
+            "title": "Radomiak Radom - Ruch Chorz\u00f3w",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.14",
+                "1x": "1.30",
+                "x": "3.31",
+                "x2": "1.61",
+                "2": "3.16"
+            }
+        },
+        {
+            "title": "FCV Farul Constanta - CS Universitatea Craiova",
+            "date": "Dnes | 19:30",
+            "odds": {
+                "1": "2.46",
+                "1x": "1.44",
+                "x": "3.51",
+                "x2": "1.47",
+                "2": "2.54"
+            }
+        },
+        {
+            "title": "Al Wasl - Al Wahda (SAE)",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "1.54",
+                "1x": "1.12",
+                "x": "4.01",
+                "x2": "2.14",
+                "2": "4.63"
+            }
+        },
+        {
+            "title": "Ivanjica - Vozdovac",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "2.19",
+                "1x": "1.26",
+                "x": "2.94",
+                "x2": "1.52",
+                "2": "3.18"
+            }
+        },
+        {
+            "title": "Radnicki Nis - IMT Novi Beograd",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "2.44",
+                "1x": "1.34",
+                "x": "3.00",
+                "x2": "1.43",
+                "2": "2.75"
+            }
+        },
+        {
+            "title": "\u017delezni\u010dar Pan\u010devo - Surdulica",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.22",
+                "1x": "1.01",
+                "x": "5.32",
+                "x2": "3.41",
+                "2": "11.50"
+            }
+        },
+        {
+            "title": "IFK G\u00f6teborg - Malm\u00f6 FF",
+            "date": "Dnes | 19:10",
+            "odds": {
+                "1": "4.62",
+                "1x": "2.11",
+                "x": "3.92",
+                "x2": "1.17",
+                "2": "1.69"
+            }
+        },
+        {
+            "title": "Zorya - Veres Rivne",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "2.02",
+                "1x": "1.23",
+                "x": "3.13",
+                "x2": "1.62",
+                "2": "3.35"
+            }
+        },
+        {
+            "title": "Almagro - Estudiantes R\u00edo Cuarto",
+            "date": "Dnes | 20:30",
+            "odds": {
+                "1": "3.06",
+                "1x": "1.40",
+                "x": "2.56",
+                "x2": "1.31",
+                "2": "2.71"
+            }
+        },
+        {
+            "title": "Olomouc B - Sparta Praha B",
+            "date": "Dnes | 16:30",
+            "odds": {
+                "1": "2.32",
+                "1x": "1.43",
+                "x": "3.76",
+                "x2": "1.53",
+                "2": "2.59"
+            }
+        },
+        {
+            "title": "Hobro - Vendsyssel",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.65",
+                "1x": "1.46",
+                "x": "3.31",
+                "x2": "1.37",
+                "2": "2.34"
+            }
+        },
+        {
+            "title": "KTP Kotka - Jaro Jakobstad",
+            "date": "Dnes | 17:30",
+            "odds": {
+                "1": "1.85",
+                "1x": "1.22",
+                "x": "3.55",
+                "x2": "1.74",
+                "2": "3.43"
+            }
+        },
+        {
+            "title": "Longford Town - Treaty United",
+            "date": "Dnes | 20:45",
+            "odds": {
+                "1": "2.84",
+                "1x": "1.50",
+                "x": "3.18",
+                "x2": "1.36",
+                "2": "2.39"
+            }
+        },
+        {
+            "title": "Vasas - Haladas",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.22",
+                "1x": "1.01",
+                "x": "5.50",
+                "x2": "3.39",
+                "2": "10.20"
+            }
+        },
+        {
+            "title": "Breda - Kerkrade",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "2.21",
+                "1x": "1.34",
+                "x": "3.43",
+                "x2": "1.52",
+                "2": "2.76"
+            }
+        },
+        {
+            "title": "Legnica - Bielsko Biala",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "1.79",
+                "1x": "1.17",
+                "x": "3.37",
+                "x2": "1.80",
+                "2": "3.88"
+            }
+        },
+        {
+            "title": "Leiria - Viseu",
+            "date": "Dnes | 21:15",
+            "odds": {
+                "1": "2.23",
+                "1x": "1.29",
+                "x": "3.10",
+                "x2": "1.57",
+                "2": "3.18"
+            }
+        },
+        {
+            "title": "Mladost Novi Sad - Sloboda U\u017eice",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.63",
+                "1x": "1.10",
+                "x": "3.30",
+                "x2": "1.99",
+                "2": "4.95"
+            }
+        },
+        {
+            "title": "Metalac GM - Kolubara Lazarevac",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.58",
+                "1x": "1.26",
+                "x": "2.47",
+                "x2": "1.39",
+                "2": "3.15"
+            }
+        },
+        {
+            "title": "Sacachispas FC - Deportivo Laferrere",
+            "date": "Dnes | 20:30",
+            "odds": {
+                "1": "3.30",
+                "1x": "1.47",
+                "x": "2.65",
+                "x2": "1.24",
+                "2": "2.33"
+            }
+        },
+        {
+            "title": "BK Olympic - Eskilsminne",
+            "date": "Dnes | 18:30",
+            "odds": {
+                "1": "2.87",
+                "1x": "1.51",
+                "x": "3.22",
+                "x2": "1.31",
+                "2": "2.22"
+            }
+        },
+        {
+            "title": "Angelholm - Falkenberg",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "6.00",
+                "1x": "2.53",
+                "x": "4.31",
+                "x2": "1.06",
+                "2": "1.39"
+            }
+        },
+        {
+            "title": "J\u00f6nk\u00f6ping IF - Tvaaker",
+            "date": "Dnes | 19:15",
+            "odds": {
+                "1": "2.14",
+                "1x": "1.31",
+                "x": "3.35",
+                "x2": "1.55",
+                "2": "2.90"
+            }
+        },
+        {
+            "title": "Sunderland U21 - West Ham U21",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "2.76",
+                "1x": "1.63",
+                "x": "4.11",
+                "x2": "1.34",
+                "2": "1.99"
+            }
+        },
+        {
+            "title": "Frankfurt \u017d - Freiburg \u017d",
+            "date": "Dnes | 19:30",
+            "odds": {
+                "1": "1.29",
+                "1x": "1.03",
+                "x": "4.83",
+                "x2": "2.93",
+                "2": "7.48"
+            }
+        },
+        {
+            "title": "Juventus Torino \u017d - AS Roma \u017d",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "2.60",
+                "1x": "1.48",
+                "x": "3.49",
+                "x2": "1.38",
+                "2": "2.29"
+            }
+        },
+        {
+            "title": "Djurgarden \u017d - Vittsj\u00f6 \u017d",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "1.64",
+                "1x": "1.14",
+                "x": "3.65",
+                "x2": "1.98",
+                "2": "4.36"
+            }
+        },
+        {
+            "title": "H\u00e4cken \u017d - Rosengard \u017d",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.61",
+                "1x": "1.45",
+                "x": "3.30",
+                "x2": "1.38",
+                "2": "2.37"
+            }
+        },
+        {
+            "title": "Norrk\u00f6ping \u017d - KIF \u00d6rebro \u017d",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "1.40",
+                "1x": "1.05",
+                "x": "4.07",
+                "x2": "2.50",
+                "2": "6.34"
+            }
+        },
+        {
+            "title": "Pitea \u017d - Hammarby \u017d",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "5.04",
+                "1x": "2.14",
+                "x": "3.71",
+                "x2": "1.09",
+                "2": "1.54"
+            }
+        },
+        {
+            "title": "N\u011bmecko - \u0160v\u00e9dsko",
+            "date": "Dnes | 20:20",
+            "odds": {
+                "1": "8.70",
+                "1x": "4.02",
+                "x": "7.18",
+                "x2": "1.09",
+                "2": "1.27"
+            }
+        },
+        {
+            "title": "\u0160v\u00fdcarsko - \u010cesko",
+            "date": "Dnes | 20:20",
+            "odds": {
+                "1": "2.82",
+                "1x": "1.70",
+                "x": "4.26",
+                "x2": "1.48",
+                "2": "2.27"
+            }
+        },
+        {
+            "title": "MS 2024 - skupina A \u2013 statistiky (mus\u00ed b\u00fdt \u0159\u00e1dn\u00e9 dohr\u00e1no)",
+            "date": "Dnes | 20:20",
+            "odds": {}
+        },
+        {
+            "title": "Napolitano Stefano - Jarry Nicolas",
+            "date": "Dnes | 16:45",
+            "odds": {
+                "1": "3.35",
+                "2": "1.34"
+            }
+        },
+        {
+            "title": "Hurkacz Hubert - Etcheverry Tomas Martin",
+            "date": "Dnes | 16:50",
+            "odds": {
+                "1": "1.51",
+                "2": "2.63"
+            }
+        },
+        {
+            "title": "Baez Sebastian - Rune Holger",
+            "date": "Dnes | 18:05",
+            "odds": {
+                "1": "2.47",
+                "2": "1.57"
+            }
+        },
+        {
+            "title": "Medjedovic Hamad - Medvedev Daniil",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "3.06",
+                "2": "1.39"
+            }
+        },
+        {
+            "title": "Kypson Patrick - Wong Chak Lam Coleman",
+            "date": "Dnes | 16:30",
+            "odds": {
+                "1": "1.41",
+                "2": "2.66"
+            }
+        },
+        {
+            "title": "Ymer Elias - Quinn Ethan",
+            "date": "Dnes | 16:30",
+            "odds": {
+                "1": "1.44",
+                "2": "2.56"
+            }
+        },
+        {
+            "title": "Cerundolo Juan Manuel - Svr\u010dina Dalibor",
+            "date": "Dnes | 17:20",
+            "odds": {
+                "1": "1.42",
+                "2": "2.60"
+            }
+        },
+        {
+            "title": "Boyer Tristan - Blanch Darwin",
+            "date": "Dnes | 17:50",
+            "odds": {
+                "1": "1.12",
+                "2": "5.10"
+            }
+        },
+        {
+            "title": "Choinski Jan - Svajda Zachary",
+            "date": "Dnes | 17:50",
+            "odds": {
+                "1": "1.51",
+                "2": "2.38"
+            }
+        },
+        {
+            "title": "Lajal Mark - Roca Batalla Oriol",
+            "date": "Dnes | 16:40",
+            "odds": {
+                "1": "2.58",
+                "2": "1.43"
+            }
+        },
+        {
+            "title": "De Jong Jesper - Royer Valentin",
+            "date": "Dnes | 16:55",
+            "odds": {
+                "1": "1.44",
+                "2": "2.54"
+            }
+        },
+        {
+            "title": "Bertrand Robin - Purtseladze Saba",
+            "date": "Dnes | 16:35",
+            "odds": {
+                "1": "1.49",
+                "2": "2.37"
+            }
+        },
+        {
+            "title": "Tkemaladze Zura - Ursu Vadym",
+            "date": "Dnes | 18:05",
+            "odds": {
+                "1": "3.46",
+                "2": "1.24"
+            }
+        },
+        {
+            "title": "Rottoli Lorenzo - Potenza Luca",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.70",
+                "2": "2.00"
+            }
+        },
+        {
+            "title": "Vatutin Alexey - Krumich Martin",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.17",
+                "2": "1.59"
+            }
+        },
+        {
+            "title": "Castagnola Luca - Kriznik Matic",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.24",
+                "2": "3.39"
+            }
+        },
+        {
+            "title": "P\u00e1t\u00fd Daniel - Schiessl Joao Eduardo",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.66",
+                "2": "2.06"
+            }
+        },
+        {
+            "title": "Pecci Alessandro - Giacomini Luca",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.84",
+                "2": "1.84"
+            }
+        },
+        {
+            "title": "Pinter Piet Luis - Ramskogler Gregor",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "4.48",
+                "2": "1.15"
+            }
+        },
+        {
+            "title": "Zahraj Patrick - Tammaro Mariano",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.84",
+                "2": "1.84"
+            }
+        },
+        {
+            "title": "Collins Danielle Rose - Begu Irina",
+            "date": "Dnes | 18:10",
+            "odds": {
+                "1": "1.26",
+                "2": "4.07"
+            }
+        },
+        {
+            "title": "Sakkari Maria - Azarenka Viktoria",
+            "date": "Dnes | 18:40",
+            "odds": {
+                "1": "1.56",
+                "2": "2.51"
+            }
+        },
+        {
+            "title": "Svitolina Elina - Sabalenka Aryna",
+            "date": "Dnes | 20:35",
+            "odds": {
+                "1": "3.00",
+                "2": "1.41"
+            }
+        },
+        {
+            "title": "Pedone Giorgia - Parks Alycia",
+            "date": "Dnes | 16:40",
+            "odds": {
+                "1": "1.64",
+                "2": "2.14"
+            }
+        },
+        {
+            "title": "Sonmez Zeynep - Bronzetti Lucia",
+            "date": "Dnes | 16:40",
+            "odds": {
+                "1": "2.85",
+                "2": "1.36"
+            }
+        },
+        {
+            "title": "Zarazua Renata - Golubic Viktorija",
+            "date": "Dnes | 16:40",
+            "odds": {
+                "1": "1.55",
+                "2": "2.30"
+            }
+        },
+        {
+            "title": "Stearns Peyton - Ruggeri Jennifer",
+            "date": "Dnes | 17:50",
+            "odds": {
+                "1": "1.07",
+                "2": "6.74"
+            }
+        },
+        {
+            "title": "Bogdan Ana - Gracheva Varvara",
+            "date": "Dnes | 16:35",
+            "odds": {
+                "1": "1.48",
+                "2": "2.45"
+            }
+        },
+        {
+            "title": "Paquet Chloe - Tomova Viktoryia",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "2.07",
+                "2": "1.68"
+            }
+        },
+        {
+            "title": "Jakupovic Dalila - Popa Maria Sara",
+            "date": "Dnes | 16:25",
+            "odds": {
+                "1": "1.48",
+                "2": "2.38"
+            }
+        },
+        {
+            "title": "Smith Tina Nadine - Falkowska Weronika",
+            "date": "Dnes | 16:30",
+            "odds": {
+                "1": "2.62",
+                "2": "1.39"
+            }
+        },
+        {
+            "title": "L.Kichenok/Ostapenko - L.A.Fernandez/Rus",
+            "date": "Dnes | 16:45",
+            "odds": {
+                "1": "1.38",
+                "2": "2.98"
+            }
+        },
+        {
+            "title": "Virtus Bologna - Tortona (2.z)",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.13",
+                "1x": "1.06",
+                "x": "19.90",
+                "x2": "4.96",
+                "2": "6.67"
+            }
+        },
+        {
+            "title": "Venezia - Reggio Emilia (2.z)",
+            "date": "Dnes | 20:45",
+            "odds": {
+                "1": "1.35",
+                "1x": "1.22",
+                "x": "15.80",
+                "x2": "2.81",
+                "2": "3.63"
+            }
+        },
+        {
+            "title": "Italsk\u00e1 liga - celkov\u011b (play-off mus\u00ed b\u00fdt \u0159\u00e1dn\u011b dohr\u00e1no)",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "Virtus Bologna"
+            }
+        },
+        {
+            "title": "CZ Beograd - Partizan Beograd (1.z)",
+            "date": "Dnes | 20:30",
+            "odds": {
+                "1": "1.47",
+                "1x": "1.31",
+                "x": "15.30",
+                "x2": "2.41",
+                "2": "3.03"
+            }
+        },
+        {
+            "title": "Fenerbahce Istanbul - Buyukcekmece",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.14",
+                "1x": "1.07",
+                "x": "20.00",
+                "x2": "4.75",
+                "2": "6.31"
+            }
+        },
+        {
+            "title": "Balkan Botevgrad - Chernomorets Burgas (3.z)",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "1.84",
+                "1x": "1.57",
+                "x": "13.20",
+                "x2": "1.80",
+                "2": "2.14"
+            }
+        },
+        {
+            "title": "Naestved - Bakken Bears Aarhus (2.z)",
+            "date": "Dnes | 19:15",
+            "odds": {
+                "1": "2.87",
+                "1x": "2.43",
+                "x": "14.90",
+                "x2": "1.32",
+                "2": "1.46"
+            }
+        },
+        {
+            "title": "Parnu Sadam - Tartu Ulikool (4.z)",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "2.39",
+                "1x": "1.98",
+                "x": "13.90",
+                "x2": "1.47",
+                "2": "1.68"
+            }
+        },
+        {
+            "title": "KK Zadar - Dinamo Zagreb (1.z)",
+            "date": "Dnes | 20:30",
+            "odds": {
+                "1": "1.10",
+                "1x": "1.06",
+                "x": "18.90",
+                "x2": "5.30",
+                "2": "7.03"
+            }
+        },
+        {
+            "title": "Rytas Vilnius - BC Jonava (1.z)",
+            "date": "Dnes | 17:30",
+            "odds": {
+                "1": "1.06",
+                "1x": "1.03",
+                "x": "22.30",
+                "x2": "6.35",
+                "2": "8.04"
+            }
+        },
+        {
+            "title": "BC Wolves Vilnius - Neptunas Klaipeda (1.z)",
+            "date": "Dnes | 18:30",
+            "odds": {
+                "1": "1.29",
+                "1x": "1.19",
+                "x": "15.50",
+                "x2": "2.98",
+                "2": "3.71"
+            }
+        },
+        {
+            "title": "Rigas Zelli - VEF Riga (2.z)",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.93",
+                "1x": "2.46",
+                "x": "14.70",
+                "x2": "1.31",
+                "2": "1.45"
+            }
+        },
+        {
+            "title": "Imortal - FC Porto (2.z)",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "5.60",
+                "1x": "4.19",
+                "x": "17.30",
+                "x2": "1.09",
+                "2": "1.17"
+            }
+        },
+        {
+            "title": "Ovarense - Sporting CP (2.z)",
+            "date": "Dnes | 22:00",
+            "odds": {
+                "1": "2.52",
+                "1x": "2.08",
+                "x": "14.40",
+                "x2": "1.43",
+                "2": "1.61"
+            }
+        },
+        {
+            "title": "Voluntari - Arges Pitesti (2.z)",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "1.29",
+                "1x": "1.18",
+                "x": "15.00",
+                "x2": "3.08",
+                "2": "3.96"
+            }
+        },
+        {
+            "title": "Vostes Yannick - \u0160\u00edp Martin",
+            "date": "Dnes | 16:30",
+            "odds": {
+                "1": "1.03",
+                "2": "7.68"
+            }
+        },
+        {
+            "title": "Keinath Thomas - Vr\u00e1bl\u00edk Ji\u0159\u00ed",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "3.65",
+                "2": "1.20"
+            }
+        },
+        {
+            "title": "Bako Radim - Bene\u0161 Michal",
+            "date": "Dnes | 17:30",
+            "odds": {
+                "1": "8.02",
+                "2": "1.03"
+            }
+        },
+        {
+            "title": "Gavlas Anton\u00edn - Vostes Yannick",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "1.28",
+                "2": "3.03"
+            }
+        },
+        {
+            "title": "Keinath Thomas - \u0160\u00edp Martin",
+            "date": "Dnes | 18:30",
+            "odds": {
+                "1": "1.07",
+                "2": "6.24"
+            }
+        },
+        {
+            "title": "Bene\u0161 Michal - Sanchi Francisco",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.21",
+                "2": "1.54"
+            }
+        },
+        {
+            "title": "Bako Radim - Vr\u00e1bl\u00edk Ji\u0159\u00ed",
+            "date": "Dnes | 19:30",
+            "odds": {
+                "1": "9.35",
+                "2": "1.01"
+            }
+        },
+        {
+            "title": "Gavlas Anton\u00edn - Keinath Thomas",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.09",
+                "2": "5.40"
+            }
+        },
+        {
+            "title": "Vostes Yannick - Sanchi Francisco",
+            "date": "Dnes | 20:30",
+            "odds": {
+                "1": "1.49",
+                "2": "2.31"
+            }
+        },
+        {
+            "title": "Bako Radim - \u0160\u00edp Martin",
+            "date": "Dnes | 21:00",
+            "odds": {
+                "1": "2.44",
+                "2": "1.44"
+            }
+        },
+        {
+            "title": "Bene\u0161 Michal - Vr\u00e1bl\u00edk Ji\u0159\u00ed",
+            "date": "Dnes | 21:30",
+            "odds": {
+                "1": "3.88",
+                "2": "1.18"
+            }
+        },
+        {
+            "title": "Vostes Yannick - Keinath Thomas",
+            "date": "Dnes | 22:00",
+            "odds": {
+                "1": "1.44",
+                "2": "2.44"
+            }
+        },
+        {
+            "title": "Gavlas Anton\u00edn - Bako Radim",
+            "date": "Dnes | 22:30",
+            "odds": {
+                "1": "1.01",
+                "2": "9.35"
+            }
+        },
+        {
+            "title": "Vr\u00e1bl\u00edk Ji\u0159\u00ed - Sanchi Francisco",
+            "date": "Dnes | 23:00",
+            "odds": {
+                "1": "1.33",
+                "2": "2.78"
+            }
+        },
+        {
+            "title": "Bene\u0161 Michal - \u0160\u00edp Martin",
+            "date": "Dnes | 23:30",
+            "odds": {
+                "1": "1.12",
+                "2": "4.75"
+            }
+        },
+        {
+            "title": "Felkel Grzegorz - Kosowski Jakub",
+            "date": "Dnes | 16:25",
+            "odds": {
+                "1": "2.67",
+                "2": "1.36"
+            }
+        },
+        {
+            "title": "Witkowski Jakub - Podsiadlo Maciej",
+            "date": "Dnes | 16:40",
+            "odds": {
+                "1": "1.97",
+                "2": "1.70"
+            }
+        },
+        {
+            "title": "Wiecek Adrian - Czerwinski Bartosz",
+            "date": "Dnes | 16:50",
+            "odds": {
+                "1": "1.21",
+                "2": "3.60"
+            }
+        },
+        {
+            "title": "Adamiak Grzegorz - Wisniewski Karol",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.37",
+                "2": "2.66"
+            }
+        },
+        {
+            "title": "Klos Patrik - Felkel Grzegorz",
+            "date": "Dnes | 17:10",
+            "odds": {
+                "1": "1.58",
+                "2": "2.15"
+            }
+        },
+        {
+            "title": "Mlynarski Filip - Spychala Adrian",
+            "date": "Dnes | 17:25",
+            "odds": {
+                "1": "1.63",
+                "2": "2.07"
+            }
+        },
+        {
+            "title": "Kosowski Jakub - Golebiowski Mateusz",
+            "date": "Dnes | 17:35",
+            "odds": {
+                "1": "2.22",
+                "2": "1.54"
+            }
+        },
+        {
+            "title": "Witkowski Jakub - Wisniewski Karol",
+            "date": "Dnes | 17:50",
+            "odds": {
+                "1": "2.16",
+                "2": "1.58"
+            }
+        },
+        {
+            "title": "Wiecek Adrian - Felkel Grzegorz",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "1.54",
+                "2": "2.21"
+            }
+        },
+        {
+            "title": "Podsiadlo Maciej - Spychala Adrian",
+            "date": "Dnes | 18:15",
+            "odds": {
+                "1": "1.78",
+                "2": "1.88"
+            }
+        },
+        {
+            "title": "Czerwinski Bartosz - Golebiowski Mateusz",
+            "date": "Dnes | 18:25",
+            "odds": {
+                "1": "5.91",
+                "2": "1.07"
+            }
+        },
+        {
+            "title": "Adamiak Grzegorz - Mlynarski Filip",
+            "date": "Dnes | 18:35",
+            "odds": {
+                "1": "1.63",
+                "2": "2.07"
+            }
+        },
+        {
+            "title": "Klos Patrik - Kosowski Jakub",
+            "date": "Dnes | 18:45",
+            "odds": {
+                "1": "1.83",
+                "2": "1.83"
+            }
+        },
+        {
+            "title": "Michalski Jakub - Szczepanek Blazej",
+            "date": "Dnes | 19:10",
+            "odds": {
+                "1": "2.53",
+                "2": "1.40"
+            }
+        },
+        {
+            "title": "Koczyba Mariusz - Jadach Oskar",
+            "date": "Dnes | 19:35",
+            "odds": {
+                "1": "1.32",
+                "2": "2.85"
+            }
+        },
+        {
+            "title": "Mlynarski Filip - Jarocki Lukasz",
+            "date": "Dnes | 19:55",
+            "odds": {
+                "1": "1.55",
+                "2": "2.21"
+            }
+        },
+        {
+            "title": "Fabis Adrian - Lojtek Tomasz",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "2.12",
+                "2": "1.60"
+            }
+        },
+        {
+            "title": "Filbrandt Tomasz - Felkel Grzegorz",
+            "date": "Dnes | 20:20",
+            "odds": {
+                "1": "4.64",
+                "2": "1.13"
+            }
+        },
+        {
+            "title": "Michalski Jakub - Koczyba Mariusz",
+            "date": "Dnes | 20:25",
+            "odds": {
+                "1": "2.85",
+                "2": "1.32"
+            }
+        },
+        {
+            "title": "Lojtek Tomasz - Szczepanek Blazej",
+            "date": "Dnes | 20:50",
+            "odds": {
+                "1": "1.70",
+                "2": "1.97"
+            }
+        },
+        {
+            "title": "Felkel Grzegorz - Wisniewski Karol",
+            "date": "Dnes | 21:10",
+            "odds": {
+                "1": "1.18",
+                "2": "3.86"
+            }
+        },
+        {
+            "title": "Fabis Adrian - Jadach Oskar",
+            "date": "Dnes | 21:15",
+            "odds": {
+                "1": "1.55",
+                "2": "2.19"
+            }
+        },
+        {
+            "title": "Filbrandt Tomasz - Jarocki Lukasz",
+            "date": "Dnes | 21:30",
+            "odds": {
+                "1": "2.30",
+                "2": "1.50"
+            }
+        },
+        {
+            "title": "Koczyba Mariusz - Szczepanek Blazej",
+            "date": "Dnes | 21:35",
+            "odds": {
+                "1": "2.07",
+                "2": "1.63"
+            }
+        },
+        {
+            "title": "Michalski Jakub - Fabis Adrian",
+            "date": "Dnes | 22:00",
+            "odds": {
+                "1": "2.34",
+                "2": "1.48"
+            }
+        },
+        {
+            "title": "Lojtek Tomasz - Jadach Oskar",
+            "date": "Dnes | 22:25",
+            "odds": {
+                "1": "1.58",
+                "2": "2.15"
+            }
+        },
+        {
+            "title": "Felkel Grzegorz - Jarocki Lukasz",
+            "date": "Dnes | 22:40",
+            "odds": {
+                "1": "1.26",
+                "2": "3.18"
+            }
+        },
+        {
+            "title": "Koczyba Mariusz - Fabis Adrian",
+            "date": "Dnes | 22:45",
+            "odds": {
+                "1": "1.83",
+                "2": "1.83"
+            }
+        },
+        {
+            "title": "Mlynarski Filip - Filbrandt Tomasz",
+            "date": "Dnes | 23:05",
+            "odds": {
+                "1": "1.40",
+                "2": "2.53"
+            }
+        },
+        {
+            "title": "Michalski Jakub - Lojtek Tomasz",
+            "date": "Dnes | 23:10",
+            "odds": {
+                "1": "2.53",
+                "2": "1.40"
+            }
+        },
+        {
+            "title": "Jadach Oskar - Szczepanek Blazej",
+            "date": "Dnes | 23:35",
+            "odds": {
+                "1": "1.83",
+                "2": "1.83"
+            }
+        },
+        {
+            "title": "Jarocki Lukasz - Wisniewski Karol",
+            "date": "Dnes | 23:55",
+            "odds": {
+                "1": "1.70",
+                "2": "1.97"
+            }
+        },
+        {
+            "title": "VP.Prodigy - WOPA Esport",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.10",
+                "2": "5.80"
+            }
+        },
+        {
+            "title": "Permitta - 1win",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "3.13",
+                "2": "1.29"
+            }
+        },
+        {
+            "title": "Team Secret - Leon",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.44",
+                "2": "2.51"
+            }
+        },
+        {
+            "title": "Fluxo - Hype E-Sports",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "1.12",
+                "2": "5.07"
+            }
+        },
+        {
+            "title": "Sharks Esports - w7m esports",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "1.20",
+                "2": "3.90"
+            }
+        },
+        {
+            "title": "Case Esports - Intense Game",
+            "date": "Dnes | 22:00",
+            "odds": {
+                "1": "1.38",
+                "2": "2.80"
+            }
+        },
+        {
+            "title": "Team Solid - ODDIK",
+            "date": "Dnes | 22:00",
+            "odds": {
+                "1": "2.10",
+                "2": "1.65"
+            }
+        },
+        {
+            "title": "Galorys - Yawara Esports",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.22",
+                "2": "3.80"
+            }
+        },
+        {
+            "title": "Case Esports - Hype E-Sports",
+            "date": "Dnes | 22:30",
+            "odds": {
+                "1": "1.55",
+                "2": "2.26"
+            }
+        },
+        {
+            "title": "CYBERSHOKE Esports - Nemiga Gaming",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "2.50",
+                "2": "1.48"
+            }
+        },
+        {
+            "title": "LODIS - Eternal Fire Academy",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.64",
+                "2": "2.11"
+            }
+        },
+        {
+            "title": "ECF - JANO",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.22",
+                "2": "3.80"
+            }
+        },
+        {
+            "title": "mouz NXT - Turow Zgorzelec",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.35",
+                "2": "2.81"
+            }
+        },
+        {
+            "title": "Imperial Esports - KR\u00dc Esports",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "1.02",
+                "2": "8.99"
+            }
+        },
+        {
+            "title": "9z Team - inSanitY Sports",
+            "date": "Dnes | 20:00",
+            "odds": {
+                "1": "1.11",
+                "2": "5.20"
+            }
+        },
+        {
+            "title": "Red Canids - Sharks Esports",
+            "date": "Dnes | 23:00",
+            "odds": {
+                "1": "1.35",
+                "2": "2.80"
+            }
+        },
+        {
+            "title": "Neon - Swedo",
+            "date": "Dnes | 16:30",
+            "odds": {
+                "1": "4.00",
+                "2": "1.20"
+            }
+        },
+        {
+            "title": "Neon - Frost",
+            "date": "Dnes | 17:00",
+            "odds": {
+                "1": "5.80",
+                "2": "1.10"
+            }
+        },
+        {
+            "title": "Nemiga Gaming - Night Pulse",
+            "date": "Dnes | 18:30",
+            "odds": {
+                "1": "3.40",
+                "x": "2.10",
+                "2": "3.10"
+            }
+        },
+        {
+            "title": "FC Barcelona - FIVE Media Clan",
+            "date": "Dnes | 18:00",
+            "odds": {
+                "1": "1.35",
+                "2": "2.90"
+            }
+        },
+        {
+            "title": "Imperium Gaming - Ramboot Club",
+            "date": "Dnes | 19:00",
+            "odds": {
+                "1": "2.70",
+                "2": "1.40"
+            }
+        }
+    ]
+}
